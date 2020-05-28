@@ -437,7 +437,7 @@
       font-weight: 700; }
   
   .shopping {
-    padding: 3rem 4rem;
+    padding: 3rem 3rem 3rem 4rem;
     display: flex;
     flex-direction: column; }
     .shopping__list {
@@ -464,7 +464,7 @@
         font-size: 1.2rem;
         text-align: center;
         border: none;
-        width: 3.7rem;
+        width: 4rem;
         border-radius: 3px; }
         .shopping__count input:focus {
           outline: none;
