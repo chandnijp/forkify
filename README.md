@@ -1,6 +1,8 @@
 # forkify
 
-Technologies Used: HTML5, CSS3, JavaScript ES6 & Food2Fork API
+Recipe app using an API to search for and like different recipes, view ingredients according to the number of people eating and add the ingredients to a shopping list. I have also implemented persistent data using localStorage, so all recipes and likes are saved on page reloads. 
+
+Technologies Used: HTML5, CSS3, JavaScript ES6, Food2Fork API, NPM, Babel & Webpack
 
 
 Landing Page:
