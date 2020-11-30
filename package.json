@@ -24,6 +24,7 @@
     "core-js": "^3.6.5",
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.5",
-    "uniqid": "^5.2.0"
+    "uniqid": "^5.2.0",
+    "websocket-extensions": "^0.1.4"
   }
 }
